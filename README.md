@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yehmie
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front end
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @habeebah
+- 👀 I’m interested in cloud security
+- 🌱 I’m currently learning Linux
+- 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me ...
 
 <!---
